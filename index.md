@@ -5,7 +5,7 @@ Welcome to my personal homepage! Here you'll find information about me, my proje
 ---
 
 ## About Me
-Hello! I'm sandeep meena, a . I enjoy working on technical projects.
+Hello! I'm prahlad kumar prajapat, a . I enjoy working on technical projects.
 
 - Passionate about new ai technologies.
 - Exploring the new opportunities of life.
@@ -48,7 +48,7 @@ Check out my latest posts:
 ## Contact
 Feel free to reach out to me:
 
--  Email: [2023ucp1590@mnit.ac.in](mailto:your.email@example.com)
+-  Email: [2023ucp1580@mnit.ac.in](mailto:your.email@example.com)
 -  Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 -  LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
